@@ -1,2 +1,2 @@
 # demo.py
-printf("Hello, world)
+printf("Hello, world of INRACI")
